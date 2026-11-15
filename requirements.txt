@@ -1,0 +1,6 @@
+# Librerías necesarias para el datatón (Google Colab ya las trae instaladas)
+# Instalar en local:  pip install -r requirements.txt
+pandas>=2.0
+matplotlib>=3.7
+scikit-learn>=1.3
+jupyterlab>=4.0

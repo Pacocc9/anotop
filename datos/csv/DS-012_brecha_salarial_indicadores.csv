@@ -1,0 +1,8 @@
+﻿indicador;territorio;periodo;medida;hombres;mujeres;brecha_sobre_hombres;brecha_hombres_sobre_mujeres;fuente;nota
+Brecha salarial · salario bruto anual medio;Andalucía;2024;Salario bruto anual (€);21103;17093;19,00;23,46;IECA · Los salarios en Andalucía 2024 (MCVL);Incluye jornada parcial y periodos sin empleo.
+Brecha salarial · salario equivalente a tiempo completo;Andalucía;2024;Salario equivalente anual a tiempo completo (€);27182;24945;8,23;8,97;IECA · Los salarios en Andalucía 2024 (MCVL);Elimina el efecto de la jornada y del tiempo trabajado.
+Brecha salarial · mediana bruta anual;Andalucía;2024;Mediana del salario bruto anual (€);18148;14038;22,65;29,28;IECA · Los salarios en Andalucía 2024 (MCVL);
+Brecha salarial · mediana equivalente;Andalucía;2024;Mediana del salario equivalente (€);22189;20481;7,70;8,34;IECA · Los salarios en Andalucía 2024 (MCVL);
+Brecha salarial · todas las actividades;España;2022;Salario medio anual (€);29.381,84;24.359,82;17,09;20,62;INE · EAES 2022 · tabla 36833/36829;
+Brecha salarial · sector TIC (CNAE J);España;2022;Salario medio anual (€);39.135,10;34.306,95;12,34;14,07;INE · EAES 2022 · tabla 36829;CNAE J: Información y comunicaciones.
+Brecha salarial · sector TIC (CNAE J);Andalucía;2022;Salario medio anual (€);30076;22217;26,13;35,37;AEAT · Mercado de trabajo y pensiones 2022 · NACE J;"Fuente tributaria; no es directamente comparable con la EAES."

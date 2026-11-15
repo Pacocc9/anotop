@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+# Lo que generan los notebooks al ejecutarse
+notebooks/figuras/
+notebooks/resultados/
+plantilla/figuras/
+plantilla/resultados/
+
+# Material solo para la organización (no se reparte)
+organizacion/

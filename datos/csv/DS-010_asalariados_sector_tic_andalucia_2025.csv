@@ -1,0 +1,67 @@
+﻿codigo_actividad;actividad;sexo;asalariados_miles;tasa_salarizacion;periodo;territorio;fuente
+A;Agricultura, ganadería, silvicultura y pesca;Hombres;124,19;71,15;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+A;Agricultura, ganadería, silvicultura y pesca;Mujeres;51,58;70,94;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+A;Agricultura, ganadería, silvicultura y pesca;Ambos sexos;175,77;71,09;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+B;Industrias extractivas;Hombres;6,45;95,52;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+B;Industrias extractivas;Mujeres;0,40;100,00;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+B;Industrias extractivas;Ambos sexos;6,85;95,77;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+C;Industria manufacturera;Hombres;186,51;88,63;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+C;Industria manufacturera;Mujeres;58,16;86,31;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+C;Industria manufacturera;Ambos sexos;244,67;88,06;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+D;Suministro de energía eléctrica, gas, vapor y aire acondicionado;Hombres;13,02;86,90;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+D;Suministro de energía eléctrica, gas, vapor y aire acondicionado;Mujeres;7,18;85,70;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+D;Suministro de energía eléctrica, gas, vapor y aire acondicionado;Ambos sexos;20,20;86,47;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+E;Suministro de agua, saneamiento, residuos;Hombres;21,38;94,86;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+E;Suministro de agua, saneamiento, residuos;Mujeres;5,62;94,46;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+E;Suministro de agua, saneamiento, residuos;Ambos sexos;26,99;94,78;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+F;Construcción;Hombres;187,20;78,75;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+F;Construcción;Mujeres;16,28;81,81;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+F;Construcción;Ambos sexos;203,48;78,99;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+G;"Comercio al por mayor y al por menor; reparación de vehículos";Hombres;210,17;74,44;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+G;"Comercio al por mayor y al por menor; reparación de vehículos";Mujeres;211,40;80,66;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+G;"Comercio al por mayor y al por menor; reparación de vehículos";Ambos sexos;421,57;77,43;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+H;Transporte y almacenamiento;Hombres;120,16;83,79;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+H;Transporte y almacenamiento;Mujeres;27,09;90,76;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+H;Transporte y almacenamiento;Ambos sexos;147,25;84,99;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+I;Hostelería;Hombres;137,09;79,89;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+I;Hostelería;Mujeres;164,31;89,82;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+I;Hostelería;Ambos sexos;301,39;85,02;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+J;Información y comunicaciones;Hombres;58,74;86,46;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+J;Información y comunicaciones;Mujeres;26,18;93,79;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+J;Información y comunicaciones;Ambos sexos;84,92;88,60;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+K;Actividades financieras y de seguros;Hombres;20,52;77,15;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+K;Actividades financieras y de seguros;Mujeres;27,37;90,63;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+K;Actividades financieras y de seguros;Ambos sexos;47,89;84,32;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+L;Actividades inmobiliarias;Hombres;6,30;39,10;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+L;Actividades inmobiliarias;Mujeres;9,80;68,84;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+L;Actividades inmobiliarias;Ambos sexos;16,09;53,05;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+M;Actividades profesionales, científicas y técnicas;Hombres;48,88;55,02;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+M;Actividades profesionales, científicas y técnicas;Mujeres;53,34;68,51;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+M;Actividades profesionales, científicas y técnicas;Ambos sexos;102,22;61,32;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+N;Actividades administrativas y servicios auxiliares;Hombres;81,56;84,37;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+N;Actividades administrativas y servicios auxiliares;Mujeres;86,34;92,38;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+N;Actividades administrativas y servicios auxiliares;Ambos sexos;167,90;88,31;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+O;"Administración pública y defensa; Seguridad Social";Hombres;165,46;100,00;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+O;"Administración pública y defensa; Seguridad Social";Mujeres;116,97;100,00;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+O;"Administración pública y defensa; Seguridad Social";Ambos sexos;282,44;100,00;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+P;Educación;Hombres;86,25;93,99;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+P;Educación;Mujeres;170,26;94,66;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+P;Educación;Ambos sexos;256,51;94,43;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+Q;Actividades sanitarias y de servicios sociales;Hombres;61,54;88,38;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+Q;Actividades sanitarias y de servicios sociales;Mujeres;231,86;93,26;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+Q;Actividades sanitarias y de servicios sociales;Ambos sexos;293,41;92,19;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+U;Organizaciones y organismos extraterritoriales;Hombres;0,12;25,28;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+U;Organizaciones y organismos extraterritoriales;Mujeres;;;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+U;Organizaciones y organismos extraterritoriales;Ambos sexos;0,12;9,46;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+R;Actividades artísticas, recreativas y de entretenimiento;Hombres;31,50;78,29;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+R;Actividades artísticas, recreativas y de entretenimiento;Mujeres;20,68;82,01;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+R;Actividades artísticas, recreativas y de entretenimiento;Ambos sexos;52,18;79,72;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+S;Otros servicios;Hombres;21,21;63,69;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+S;Otros servicios;Mujeres;34,85;61,43;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+S;Otros servicios;Ambos sexos;56,07;62,26;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+T;Hogares como empleadores;Hombres;11,87;100,00;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+T;Hogares como empleadores;Mujeres;70,91;100,00;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+T;Hogares como empleadores;Ambos sexos;82,77;100,00;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+TOTAL;Total actividades;Hombres;1.600,10;81,09;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+TOTAL;Total actividades;Mujeres;1.390,57;87,33;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865
+TOTAL;Total actividades;Ambos sexos;2.990,68;83,88;2025;Andalucía;IECA · EPA anual 2025 · consulta 22865

@@ -1,0 +1,91 @@
+﻿sector;grupo_edad;sexo;indefinido_miles;temporal_miles;total_miles;tasa_temporalidad;periodo;territorio;fuente
+Público;16-19;Hombres;;0,42;0,42;100,00;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;16-19;Mujeres;;0,13;0,13;100,00;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;16-19;Ambos sexos;;0,55;0,55;100,00;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;20-24;Hombres;2,84;5,71;8,55;66,75;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;20-24;Mujeres;0,38;4,22;4,60;91,65;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;20-24;Ambos sexos;3,23;9,92;13,15;75,45;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;25-29;Hombres;7,31;9,76;17,07;57,19;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;25-29;Mujeres;6,07;11,25;17,32;64,96;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;25-29;Ambos sexos;13,37;21,01;34,39;61,10;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;30-34;Hombres;9,65;7,14;16,80;42,53;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;30-34;Mujeres;15,91;13,56;29,46;46,01;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;30-34;Ambos sexos;25,56;20,70;46,26;44,75;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;35-39;Hombres;20,10;7,79;27,90;27,94;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;35-39;Mujeres;22,08;12,87;34,95;36,83;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;35-39;Ambos sexos;42,19;20,67;62,85;32,88;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;40-44;Hombres;26,13;6,27;32,40;19,34;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;40-44;Mujeres;32,04;13,60;45,64;29,79;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;40-44;Ambos sexos;58,18;19,86;78,04;25,45;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;45-54;Hombres;89,79;15,38;105,17;14,62;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;45-54;Mujeres;89,75;20,85;110,60;18,85;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;45-54;Ambos sexos;179,54;36,23;215,76;16,79;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;55-64;Hombres;80,29;6,65;86,94;7,65;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;55-64;Mujeres;83,56;13,19;96,75;13,63;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;55-64;Ambos sexos;163,85;19,84;183,69;10,80;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;65 y más;Hombres;3,93;1,74;5,68;30,73;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;65 y más;Mujeres;7,88;0,41;8,29;4,99;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;65 y más;Ambos sexos;11,81;2,16;13,97;15,45;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;Total;Hombres;240,05;60,86;300,92;20,23;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;Total;Mujeres;257,67;90,08;347,75;25,90;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Público;Total;Ambos sexos;497,73;150,94;648,67;23,27;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;16-19;Hombres;4,01;9,75;13,76;70,87;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;16-19;Mujeres;1,45;6,96;8,40;82,79;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;16-19;Ambos sexos;5,45;16,71;22,16;75,39;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;20-24;Hombres;43,03;37,28;80,32;46,42;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;20-24;Mujeres;36,54;34,97;71,51;48,90;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;20-24;Ambos sexos;79,57;72,26;151,83;47,59;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;25-29;Hombres;104,44;32,23;136,67;23,58;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;25-29;Mujeres;77,66;35,52;113,17;31,38;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;25-29;Ambos sexos;182,10;67,74;249,84;27,12;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;30-34;Hombres;130,59;28,34;158,93;17,83;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;30-34;Mujeres;100,28;24,90;125,18;19,89;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;30-34;Ambos sexos;230,87;53,24;284,10;18,74;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;35-39;Hombres;134,01;27,01;161,03;16,78;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;35-39;Mujeres;114,35;19,93;134,28;14,84;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;35-39;Ambos sexos;248,36;46,94;295,31;15,90;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;40-44;Hombres;149,75;20,95;170,70;12,27;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;40-44;Mujeres;133,36;22,08;155,44;14,20;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;40-44;Ambos sexos;283,11;43,03;326,14;13,19;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;45-54;Hombres;317,43;42,21;359,64;11,74;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;45-54;Mujeres;243,70;35,63;279,33;12,76;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;45-54;Ambos sexos;561,13;77,84;638,97;12,18;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;55-64;Hombres;178,90;29,18;208,08;14,02;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;55-64;Mujeres;121,17;24,61;145,78;16,88;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;55-64;Ambos sexos;300,07;53,79;353,87;15,20;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;65 y más;Hombres;8,36;1,70;10,07;16,92;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;65 y más;Mujeres;9,08;0,65;9,73;6,66;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;65 y más;Ambos sexos;17,44;2,35;19,79;11,88;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;Total;Hombres;1.070,52;228,66;1.299,19;17,60;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;Total;Mujeres;837,59;205,24;1.042,82;19,68;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Privado;Total;Ambos sexos;1.908,11;433,90;2.342,01;18,53;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;16-19;Hombres;4,01;10,17;14,17;71,73;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;16-19;Mujeres;1,45;7,09;8,54;83,06;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;16-19;Ambos sexos;5,45;17,26;22,71;75,99;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;20-24;Hombres;45,88;42,99;88,87;48,38;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;20-24;Mujeres;36,92;39,19;76,11;51,49;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;20-24;Ambos sexos;82,80;82,18;164,98;49,81;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;25-29;Hombres;111,75;41,99;153,74;27,31;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;25-29;Mujeres;83,72;46,77;130,49;35,84;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;25-29;Ambos sexos;195,47;88,76;284,23;31,23;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;30-34;Hombres;140,24;35,49;175,73;20,19;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;30-34;Mujeres;116,18;38,45;154,64;24,87;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;30-34;Ambos sexos;256,43;73,94;330,37;22,38;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;35-39;Hombres;154,12;34,81;188,92;18,42;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;35-39;Mujeres;136,43;32,80;169,23;19,38;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;35-39;Ambos sexos;290,55;67,61;358,16;18,88;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;40-44;Hombres;175,88;27,22;203,10;13,40;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;40-44;Mujeres;165,41;35,67;201,08;17,74;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;40-44;Ambos sexos;341,29;62,89;404,18;15,56;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;45-54;Hombres;407,22;57,59;464,81;12,39;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;45-54;Mujeres;333,45;56,48;389,93;14,48;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;45-54;Ambos sexos;740,67;114,06;854,73;13,35;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;55-64;Hombres;259,19;35,83;295,02;12,15;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;55-64;Mujeres;204,73;37,80;242,54;15,59;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;55-64;Ambos sexos;463,92;73,64;537,56;13,70;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;65 y más;Hombres;12,30;3,45;15,74;21,90;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;65 y más;Mujeres;16,96;1,06;18,02;5,89;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;65 y más;Ambos sexos;29,26;4,51;33,77;13,36;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;Total;Hombres;1.310,58;289,53;1.600,10;18,09;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;Total;Mujeres;1.095,26;295,32;1.390,57;21,24;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976
+Total;Total;Ambos sexos;2.405,83;584,84;2.990,68;19,56;2025;Andalucía;IECA · EPA anual 2025 · consulta 28976

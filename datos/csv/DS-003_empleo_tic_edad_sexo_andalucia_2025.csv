@@ -1,0 +1,9 @@
+﻿dimension;categoria;sexo;ocupados_miles;pct_sobre_ocupados;periodo;territorio;fuente
+edad;Menos de 30;Ambos sexos;18,81;3,73;2025;Andalucía;IECA · EPA anual 2025 · consulta 55563
+edad;30-39;Ambos sexos;31,23;3,94;2025;Andalucía;IECA · EPA anual 2025 · consulta 55563
+edad;40-49;Ambos sexos;27,23;2,65;2025;Andalucía;IECA · EPA anual 2025 · consulta 55563
+edad;50 y más;Ambos sexos;15,72;1,26;2025;Andalucía;IECA · EPA anual 2025 · consulta 55563
+edad;Total;Ambos sexos;93,00;2,61;2025;Andalucía;IECA · EPA anual 2025 · consulta 55563
+sexo;Ambos sexos;Ambos sexos;93,00;2,61;2025;Andalucía;IECA · EPA anual 2025 · consulta 55786
+sexo;Hombres;Hombres;68,28;3,46;2025;Andalucía;IECA · EPA anual 2025 · consulta 55786
+sexo;Mujeres;Mujeres;24,72;1,55;2025;Andalucía;IECA · EPA anual 2025 · consulta 55786

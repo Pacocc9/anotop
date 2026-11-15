@@ -1,0 +1,34 @@
+﻿sexo;grupo_edad;salario_medio;p10;p25;p50;p75;p90;periodo;territorio;fuente
+Hombres;Menos de 20 años;-12.436,56;-4.194,41;-7.261,34;-12.540,20;-16.969,92;-19.978,80;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Hombres;De 20 a 24 años;16.337,24;6.887,05;11.330,67;16.099,07;20.406,15;25.203,47;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Hombres;De 25 a 29 años;21.445,91;10.276,84;15.072,79;19.651,45;25.542,00;34.249,38;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Hombres;De 30 a 34 años;25.682,23;13.628,35;17.122,17;22.226,66;31.473,63;41.802,12;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Hombres;De 35 a 39 años;28.111,80;14.523,25;18.000,40;23.764,34;34.087,01;46.744,21;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Hombres;De 40 a 44 años;30.671,43;14.690,64;19.008,36;25.732,78;37.723,35;53.216,40;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Hombres;De 45 a 49 años;31.900,79;15.300,23;19.549,31;26.392,77;39.127,67;55.124,20;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Hombres;De 50 a 54 años;32.660,09;15.334,51;19.741,62;26.969,42;40.381,62;57.371,01;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Hombres;De 55 a 59 años;33.190,54;15.389,51;20.294,54;27.415,72;41.785,54;58.577,93;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Hombres;De 60 a 64 años;32.125,91;13.544,46;18.795,53;26.130,49;38.861,84;59.092,38;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Hombres;Todas las edades;29.381,84;13.943,78;18.000,00;24.238,23;35.899,29;51.637,49;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Mujeres;Menos de 20 años;-8.875,09;-2.575,20;-4.347,30;-7.885,32;-12.421,68;-16.938,99;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Mujeres;De 20 a 24 años;13.789,84;5.696,41;8.621,73;13.477,56;17.365,03;21.834,66;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Mujeres;De 25 a 29 años;19.343,03;8.193,49;12.872,67;17.452,51;23.665,08;32.948,33;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Mujeres;De 30 a 34 años;22.361,32;9.597,38;14.021,06;18.934,41;27.602,38;38.444,75;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Mujeres;De 35 a 39 años;23.237,09;9.574,91;14.000,07;19.113,45;29.035,62;41.292,05;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Mujeres;De 40 a 44 años;24.734,92;9.400,88;14.616,67;20.474,65;31.794,69;43.806,21;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Mujeres;De 45 a 49 años;26.507,49;9.738,24;15.099,64;21.651,30;33.881,20;47.778,65;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Mujeres;De 50 a 54 años;25.939,04;9.151,02;14.666,63;21.404,18;33.617,63;47.381,71;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Mujeres;De 55 a 59 años;26.928,34;8.984,83;14.925,00;22.979,12;34.840,45;49.535,88;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Mujeres;De 60 a 64 años;27.217,22;8.795,52;15.112,40;23.713,39;35.526,32;50.006,04;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Mujeres;Todas las edades;24.359,82;8.732,51;14.094,78;20.045,68;30.984,32;44.481,68;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Ambos sexos;Menos de 20 años;10.597,24;3.115,56;5.408,77;9.658,53;15.035,78;19.109,76;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Ambos sexos;De 20 a 24 años;15.181,24;6.079,26;9.815,04;14.786,02;19.268,00;24.025,02;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Ambos sexos;De 25 a 29 años;20.459,60;9.078,76;14.043,88;18.560,51;24.925,54;33.769,26;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Ambos sexos;De 30 a 34 años;24.114,17;11.100,00;15.423,47;20.816,64;29.897,30;40.205,66;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Ambos sexos;De 35 a 39 años;25.745,84;11.596,64;15.969,62;21.435,00;31.810,20;44.227,36;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Ambos sexos;De 40 a 44 años;27.713,56;11.534,30;16.579,71;23.247,10;34.857,30;48.499,91;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Ambos sexos;De 45 a 49 años;29.293,69;12.573,84;17.221,54;24.076,48;36.707,41;51.945,07;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Ambos sexos;De 50 a 54 años;29.381,29;12.066,83;17.075,07;24.407,53;37.181,00;53.141,81;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Ambos sexos;De 55 a 59 años;30.196,33;11.946,01;17.590,22;25.263,80;38.675,17;54.078,44;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Ambos sexos;De 60 a 64 años;29.646,98;10.399,02;16.817,01;25.031,52;37.218,16;53.739,36;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834
+Ambos sexos;Todas las edades;26.948,87;10.657,37;15.913,52;22.383,11;33.561,62;48.217,21;2022;España;INE · Encuesta cuatrienal de estructura salarial 2022 · tabla 36834

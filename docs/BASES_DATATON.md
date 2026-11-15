@@ -468,16 +468,16 @@ Cinco criterios, 100 puntos:
 
 ## Premios
 
-Presupuesto 0 €, premios modestos y honestos. No se promete un MacBook: se promete reconocimiento y, si se puede, merendar.
+Presupuesto 0 €, premios modestos y honestos. No se promete un MacBook: lo único seguro es el reconocimiento.
 
 | Puesto | Premio |
 |---|---|
-| 🥇 **Primer premio** | Diploma + vale para un bocadillo sencillo en el Ñam Ñam* |
-| 🥈 **Segundo premio** | Diploma + vale para un bocadillo sencillo en el Ñam Ñam* |
-| 🥉 **Tercer premio** | Diploma + vale para un bocadillo sencillo en el Ñam Ñam* |
+| 🥇 **Primer premio** | Diploma |
+| 🥈 **Segundo premio** | Diploma |
+| 🥉 **Tercer premio** | Diploma |
 | ⭐ **Menciones** | Mejor visualización, código más eficiente y pregunta más incómoda |
 
-\* Los vales están sujetos a disponibilidad: se confirmarán por los canales oficiales de InnoSoft.
+Los **diplomas están garantizados**. Estamos intentando conseguir algo más (por ejemplo, vales de bocadillo en el Ñam Ñam), pero **no está confirmado**: si sale, se avisará por los canales oficiales de InnoSoft.
 
 🏆 **La entrega de premios es el jueves.** El jurado valora las entregas y las presentaciones del día y comunica el resultado entonces.
 
@@ -636,7 +636,7 @@ Depende. La definición estándar es (salario hombres − salario mujeres) / sal
 <details>
 <summary><b>¿Hay premios?</b></summary>
 
-Sí, modestos: diploma para los tres primeros puestos y, si es posible, un vale para un bocadillo sencillo en el Ñam Ñam. También hay menciones especiales del jurado. El presupuesto es 0 €, así que se prioriza el reconocimiento.
+Sí, modestos: **diploma** para los tres primeros puestos y menciones especiales del jurado. El presupuesto es 0 €. Estamos intentando conseguir algo más (como vales de bocadillo), pero no está confirmado; si sale, se avisará.
 </details>
 
 <details>

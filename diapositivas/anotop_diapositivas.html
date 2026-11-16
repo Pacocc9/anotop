@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Anotop · Diapositivas</title>
+<style>
+  @page { size: 1920px 1080px; margin: 0; }
+  :root {
+    --ink: #1d1d1f;
+    --ink-2: #6e6e73;
+    --ink-3: #86868b;
+    --paper: #ffffff;
+    --mist: #f5f5f7;
+    --night: #000000;
+    --night-card: #1d1d1f;
+    --night-ink: #f5f5f7;
+    --night-ink-2: #a1a1a6;
+    --blue: #0071e3;
+    --blue-bright: #2997ff;
+    --purple: #bf5af2;
+    --orange: #ff9f0a;
+    --grad: linear-gradient(90deg, #2997ff 0%, #bf5af2 100%);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { background: #000; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: var(--ink);
+  }
+  .slide {
+    width: 1920px; height: 1080px;
+    position: relative; overflow: hidden;
+    padding: 96px 120px 88px;
+    display: flex; flex-direction: column;
+    page-break-after: always; break-after: page;
+  }
+  .slide:last-child { page-break-after: auto; break-after: auto; }
+  .light { background: var(--paper); color: var(--ink); }
+  .mist  { background: var(--mist);  color: var(--ink); }
+  .dark  { background: var(--night); color: var(--night-ink); }
+
+  .eyebrow { font-size: 30px; font-weight: 600; letter-spacing: -0.005em; color: var(--ink-2); }
+  .dark .eyebrow { color: var(--night-ink-2); }
+  .eyebrow.accent { color: var(--blue); }
+  .dark .eyebrow.accent { color: var(--blue-bright); }
+
+  .grad { background: var(--grad); -webkit-background-clip: text; background-clip: text; color: transparent; }
+
+  .foot {
+    position: absolute; left: 120px; right: 120px; bottom: 40px;
+    display: flex; justify-content: space-between;
+    font-size: 20px; color: var(--ink-3); letter-spacing: 0.01em;
+  }
+  .dark .foot { color: #6e6e73; }
+  .foot b { font-weight: 600; color: var(--ink-2); }
+  .dark .foot b { color: var(--night-ink-2); }
+
+  /* ---------- 1 · Pregunta ---------- */
+  .s1 { justify-content: center; }
+  .s1 h1 {
+    font-size: 124px; line-height: 1.02; font-weight: 700; letter-spacing: -0.035em;
+    margin: 28px 0 44px; max-width: 1560px;
+  }
+  .s1 .sub { font-size: 42px; line-height: 1.3; color: var(--ink-2); max-width: 1380px; letter-spacing: -0.01em; }
+  .s1 .why {
+    margin-top: 64px; font-size: 30px; line-height: 1.4; max-width: 1300px; color: var(--ink);
+    padding-left: 28px; border-left: 4px solid var(--blue);
+  }
+  .s1 .why b { font-weight: 600; }
+  .team { position: absolute; right: 120px; top: 96px; text-align: right; }
+  .team .name { font-size: 34px; font-weight: 700; letter-spacing: -0.02em; }
+  .team .who { font-size: 24px; color: var(--ink-2); margin-top: 6px; }
+
+  /* ---------- 2 · Datos y método ---------- */
+  .s2 h2, .s3 h2, .s4 h2 {
+    font-size: 72px; line-height: 1.06; font-weight: 700; letter-spacing: -0.03em; margin-top: 18px;
+  }
+  .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; margin-top: 64px; }
+  .card { background: var(--night-card); border-radius: 32px; padding: 44px 44px 40px; }
+  .tag {
+    display: inline-block; font-size: 19px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
+    padding: 8px 16px; border-radius: 999px; margin-bottom: 28px;
+  }
+  .tag.ok   { background: rgba(41,151,255,.16); color: var(--blue-bright); }
+  .tag.val  { background: rgba(48,209,88,.16);  color: #30d158; }
+  .tag.syn  { background: rgba(255,159,10,.18); color: var(--orange); }
+  .card .ds { font-size: 46px; font-weight: 700; letter-spacing: -0.02em; }
+  .card .src { font-size: 22px; color: var(--night-ink-2); margin: 8px 0 26px; line-height: 1.35; }
+  .card p { font-size: 25px; line-height: 1.42; color: var(--night-ink); }
+  .card p + p { margin-top: 14px; }
+  .card .mono { font-family: "SF Mono", ui-monospace, Menlo, monospace; font-size: 20px; color: var(--night-ink-2); line-height: 1.5; }
+  .formula {
+    margin-top: auto; display: flex; align-items: baseline; gap: 56px; padding-top: 40px;
+    border-top: 1px solid #2c2c2e;
+  }
+  .formula .big { font-size: 56px; font-weight: 600; letter-spacing: -0.02em; }
+  .formula .alt { font-size: 28px; color: var(--night-ink-2); }
+  .formula .alt b { color: var(--night-ink); font-weight: 600; }
+
+  /* ---------- 3 · Hallazgos ---------- */
+  .s3 { padding-bottom: 80px; }
+  .s3 h2 { font-size: 60px; max-width: 1680px; }
+  .grid3 {
+    flex: 1; min-height: 0; margin-top: 40px;
+    display: grid; grid-template-columns: 1fr 1fr; gap: 28px; align-items: center;
+  }
+  .fig { padding: 28px 26px; }
+  .fig { background: var(--paper); border-radius: 28px; padding: 18px 22px; display: flex; min-height: 0; }
+  .fig img { width: 100%; height: 100%; object-fit: contain; display: block; }
+  .fig.main { grid-row: 1 / span 2; }
+
+  /* ---------- 4 · Conclusión ---------- */
+  .s4 h2 { font-size: 66px; max-width: 1680px; line-height: 1.1; }
+  .s4 h2 .soft { color: var(--night-ink-2); }
+  .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; margin-top: 64px; }
+  .pair .card { padding: 48px 52px; }
+  .pair h3 { font-size: 34px; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 26px; }
+  .pair .no h3 { color: var(--orange); }
+  .pair .go h3 { color: var(--blue-bright); }
+  .pair ul { list-style: none; }
+  .pair li { font-size: 26px; line-height: 1.4; padding-left: 30px; position: relative; color: var(--night-ink); }
+  .pair li + li { margin-top: 20px; }
+  .pair li::before { content: "—"; position: absolute; left: 0; color: #6e6e73; }
+  .pair .quote { font-size: 34px; line-height: 1.32; font-weight: 600; letter-spacing: -0.015em; }
+  .pair .who { font-size: 22px; color: var(--night-ink-2); margin-bottom: 18px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; }
+  .pair .so { font-size: 24px; line-height: 1.42; color: var(--night-ink-2); margin-top: 28px; }
+</style>
+</head>
+<body>
+
+<!-- 1 · LA PREGUNTA -->
+<section class="slide light s1">
+  <div class="team">
+    <div class="name">Equipo ANOTOP</div>
+    <div class="who">Juan · Nico · Paco</div>
+  </div>
+  <div class="eyebrow">Brecha salarial de género · Andalucía</div>
+  <h1>¿Cobran menos por hora, o <span class="grad">trabajan menos horas</span>?</h1>
+  <p class="sub">Cuánto de la brecha salarial entre hombres y mujeres en Andalucía es salario a igual trabajo, y cuánto es jornada.</p>
+  <p class="why"><b>Por qué importa:</b> si es jornada, la palanca es la conciliación y la parcialidad no deseada; si es salario por hora, es la igualdad retributiva. Son políticas distintas.</p>
+  <div class="foot"><span><b>Datatón Tech for Good</b> · InnoSoft 26–27 · ETSII, Universidad de Sevilla</span><span>1 / 4</span></div>
+</section>
+
+<!-- 2 · DATOS Y MÉTODO -->
+<section class="slide dark s2">
+  <div class="eyebrow accent">Datos y método</div>
+  <h2>Dos fuentes, una fórmula y una comprobación automática.</h2>
+
+  <div class="cards">
+    <div class="card">
+      <span class="tag ok">Oficial</span>
+      <div class="ds">DS-005</div>
+      <div class="src">IECA · Muestra Continua de Vidas Laborales · 2024 · Andalucía</div>
+      <p>Salario bruto anual frente a salario equivalente a tiempo completo, en media y en mediana.</p>
+      <p>Solo filas Hombres y Mujeres: descartamos el total «Ambos sexos».</p>
+    </div>
+    <div class="card">
+      <span class="tag val">Validación</span>
+      <div class="ds">DS-012</div>
+      <div class="src">Indicadores oficiales de brecha · 2022–2024</div>
+      <p>Nuestras 4 brechas (media y mediana, bruta y equivalente) se comparan en código con la tabla oficial.</p>
+      <p>Si difieren más de 0,01 puntos, el notebook se detiene.</p>
+    </div>
+    <div class="card">
+      <span class="tag syn">Datos sintéticos</span>
+      <div class="ds">DS-013</div>
+      <div class="src">Microdatos TIC calibrados · 3.000 obs. (2.130&nbsp;H · 870&nbsp;M) · 0&nbsp;vacíos</div>
+      <p>Regresión log-lineal del salario por hora:</p>
+      <p class="mono">ln(salario/hora) ~ mujer + edad + experiencia + antigüedad + horas + contrato + jornada + rol + tamaño + provincia + teletrabajo<br>R² = 0,44</p>
+    </div>
+  </div>
+
+  <div class="formula">
+    <span class="big">Brecha = (H − M) / H</span>
+    <span class="alt">También <b>H / M − 1</b> en el CSV · Ajustada = <b>1 − e<sup>β mujer</sup></b></span>
+  </div>
+  <div class="foot"><span><b>Equipo ANOTOP</b></span><span>2 / 4</span></div>
+</section>
+
+<!-- 3 · HALLAZGOS -->
+<section class="slide mist s3">
+  <div class="eyebrow accent">Hallazgos</div>
+  <h2>A igual jornada, la brecha de las mujeres andaluzas cae del 19,0&nbsp;% al 8,2&nbsp;%. Se reduce, pero no desaparece.</h2>
+  <div class="grid3">
+    <div class="fig"><img src="../figuras/grafico1_efecto_jornada_andalucia.png" alt="Salario bruto y equivalente a tiempo completo por sexo, Andalucía 2024"></div>
+    <div class="fig"><img src="../figuras/grafico3_descomposicion_regresion.png" alt="Brecha sin ajustar y a igualdad de condiciones, Andalucía y sector TIC"></div>
+  </div>
+  <div class="foot"><span><b>Equipo ANOTOP</b> · Los datos TIC (DS-013) son sintéticos: muestran mecanismos, no personas.</span><span>3 / 4</span></div>
+</section>
+
+<!-- 4 · CONCLUSIÓN Y ACCIÓN -->
+<section class="slide dark s4">
+  <div class="eyebrow accent">Conclusión</div>
+  <h2>Más de la mitad de la brecha es jornada. <span class="soft">Pero a igual jornada sigue habiendo un </span><span class="grad">8,2&nbsp;%</span><span class="soft">.</span></h2>
+
+  <div class="pair">
+    <div class="card no">
+      <h3>Qué no podemos concluir</h3>
+      <ul>
+        <li>Que el 8,2 % restante sea discriminación directa: faltan variables como puesto exacto o promoción.</li>
+        <li>Que la parte «explicada» sea neutral: menos horas y otros roles también pueden ser desigualdad. Ajustada no es justificada.</li>
+        <li>Nada sobre personas reales en TIC: DS-013 es sintético.</li>
+        <li>No hay tabla oficial que cruce TIC × sexo × edad × jornada en Andalucía.</li>
+      </ul>
+    </div>
+    <div class="card go">
+      <h3>Qué proponemos</h3>
+      <div class="who">Empresas TIC y Junta de Andalucía</div>
+      <p class="quote">Que los planes de igualdad publiquen la brecha por salario/hora efectiva y por tramo de jornada, no solo la cifra bruta anual.</p>
+      <p class="so">Así se distingue si el problema es de conciliación (horas) o de retribución y promoción (salario por hora), y se actúa sobre la causa correcta.</p>
+    </div>
+  </div>
+  <div class="foot"><span><b>Equipo ANOTOP</b> · Fuentes: IECA MCVL 2024 (DS-005), DS-012, DS-013 (sintético)</span><span>4 / 4</span></div>
+</section>
+
+</body>
+</html>
